@@ -33,7 +33,7 @@ a{
 }
 
 .game:hover .game__win{
-    animation: win  6s steps(1) forwards;
+    animation: win  60s steps(1) forwards;
 }
 
 .game:hover .game__counter::after{
